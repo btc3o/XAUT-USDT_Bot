@@ -34,8 +34,8 @@
 
   "exchange": {
     "name": "bybit",
-    "key": "Exr6wiFe0pO4zx2yvW",
-    "secret": "QHrvFjQZWKp8xbGmipfGgNRGn7d6mSbPNdOd",
+    "key": "your bybit api key",
+    "secret": "your bybit secret key",
     "ccxt_config": {
       "sandbox": true,
       "enableRateLimit": true
@@ -81,4 +81,5 @@
   },
 
   "strategy": "FawdaBot"
+
 }
