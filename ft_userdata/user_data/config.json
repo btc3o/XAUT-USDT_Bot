@@ -56,8 +56,8 @@
 
   "telegram": {
     "enabled": true,
-    "token": "8271967139:AAF2gjIAWRMPVILXr9jecNwamYj9By4PlB4",
-    "chat_id": "7964157982",
+    "token": "your token id",
+    "chat_id": "your chat id",
     "notification_settings": {
       "status": "on",
       "warning": "on",
@@ -83,3 +83,4 @@
   "strategy": "FawdaBot"
 
 }
+
